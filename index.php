@@ -61,7 +61,13 @@
 				</select>
 			</td>
 		</tr>
-      
+      <tr>
+				<td></td>
+				<td></td>
+				<td><button tyoe="submit" name="kirim">Kirim</button>
+					<button tyoe="reset" name="reset">Batal</button>
+				</td>
+			</tr>
       </table>
 	</form>
 </div>
