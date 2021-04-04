@@ -64,8 +64,8 @@
       <tr>
 				<td></td>
 				<td></td>
-				<td><button tyoe="submit" name="kirim">Kirim</button>
-					<button tyoe="reset" name="reset">Batal</button>
+				<td><button type="submit" name="kirim">Kirim</button>
+					<button type="reset" name="reset">Batal</button>
 				</td>
 			</tr>
       </table>
